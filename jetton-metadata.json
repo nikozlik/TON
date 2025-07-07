@@ -1,0 +1,7 @@
+{
+  "name": "My Custom Coin",
+  "symbol": "MCC",
+  "decimals": 9,
+  "description": "This is a custom Jetton token for demonstration purposes on TON Mainnet.",
+  "image": "https://example.com/your_logo_image.png"
+}
