@@ -1,1 +1,1 @@
-# TON
+ my-ton-jetton
